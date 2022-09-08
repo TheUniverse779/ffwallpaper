@@ -1,6 +1,13 @@
 {
   "categories": [
-  {
+	{
+      "id": "4K",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/4K.jpg",
+      "count": "64",
+      "ratio" : "1233:2127",
+      "name" : "Free Fire 4K Wallpaper"
+    },
+	{
       "id": "PRO1",
       "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/PRO1.jpg",
       "count": "141",
