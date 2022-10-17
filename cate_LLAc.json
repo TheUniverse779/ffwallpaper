@@ -1,103 +1,103 @@
 
 {
-"categories": [
-{
-"id": "4K",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/4K.jpg",
-"count": "64",
-"ratio": "1233:2127",
-"name": "Free Fire 4K Wallpaper"
-},
-{
-"id": "PRO1",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/PRO1.jpg",
-"count": "141",
-"ratio": "300:533",
-"name": "Free Fire PRO collection 1"
-},
-{
-"id": "FFGold",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFGold.jpg",
-"count": "93",
-"ratio": "389:647",
-"name": "Free Fire Gold wallpaper"
-},
-{
-"id": "FFPlatinum",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFPlatinum.jpg",
-"count": "23",
-"ratio": "640:640",
-"name": "Free Fire Platinum wallpaper"
-},
-{
-"id": "Collection8",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection8.jpg",
-"count": "761",
-"ratio": "1077:1001",
-"name": "Free Fire Wallpaper Collection"
-},
-{
-"id": "Collection1",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection1.jpg",
-"count": "471",
-"ratio": "480:800",
-"name": "Free Fire Wallpaper Collection 1"
-},
-{
-"id": "Collection2",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection2.jpg",
-"count": "192",
-"ratio": "719:1199",
-"name": "Free Fire Wallpaper Collection 2"
-},
-{
-"id": "Collection3",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection3.jpg",
-"count": "118",
-"ratio": "720:674",
-"name": "Free Fire Wallpaper Collection 3"
-},
-{
-"id": "Collection4",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection4.jpg",
-"count": "113",
-"ratio": "564:888",
-"name": "Free Fire Wallpaper Collection 4"
-},
-{
-"id": "Collection5",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection5.jpg",
-"count": "66",
-"ratio": "2089:2143",
-"name": "Free Fire Wallpaper Collection 5"
-},
-{
-"id": "Collection6",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection6.jpg",
-"count": "129",
-"ratio": "1071:1975",
-"name": "Free Fire Wallpaper Collection 6"
-},
-{
-"id": "silver",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/silver.jpg",
-"count": "32",
-"ratio": "381:555",
-"name": "Free Fire Silver wallpaper"
-},
-{
-"id": "FFAlphabet",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFAlphabet.jpg",
-"count": "26",
-"ratio": "699:385",
-"name": "Free Fire Alphabet Wallpaper"
-},
-{
-"id": "FFLoveAlphabet",
-"image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFLoveAlphabet.jpg",
-"count": "26",
-"ratio": "697:481",
-"name": "Free Fire Love Alphabet Wallpaper"
-}
-]
+  "categories": [
+    {
+      "id": "4K",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/4K.jpg",
+      "count": "64",
+      "ratio": "1269:2156",
+      "name": "4K Wallpaper"
+    },
+    {
+      "id": "PRO1",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/PRO1.jpg",
+      "count": "141",
+      "ratio": "564:970",
+      "name": "PRO collection 1"
+    },
+    {
+      "id": "FFGold",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFGold.jpg",
+      "count": "93",
+      "ratio": "1079:1807",
+      "name": "Gold wallpaper"
+    },
+    {
+      "id": "FFPlatinum",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFPlatinum.jpg",
+      "count": "23",
+      "ratio": "1060:1080",
+      "name": "Platinum wallpaper"
+    },
+    {
+      "id": "Collection8",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection8.jpg",
+      "count": "761",
+      "ratio": "1077:1001",
+      "name": "Wallpaper Collection"
+    },
+    {
+      "id": "Collection1",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection1.jpg",
+      "count": "471",
+      "ratio": "480:800",
+      "name": "Wallpaper Collection 1"
+    },
+    {
+      "id": "Collection2",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection2.jpg",
+      "count": "192",
+      "ratio": "719:1199",
+      "name": "Wallpaper Collection 2"
+    },
+    {
+      "id": "Collection3",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection3.jpg",
+      "count": "118",
+      "ratio": "720:674",
+      "name": "Wallpaper Collection 3"
+    },
+    {
+      "id": "Collection4",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection4.jpg",
+      "count": "113",
+      "ratio": "564:888",
+      "name": "Wallpaper Collection 4"
+    },
+    {
+      "id": "Collection5",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection5.jpg",
+      "count": "66",
+      "ratio": "2089:2143",
+      "name": "Wallpaper Collection 5"
+    },
+    {
+      "id": "Collection6",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/Collection6.jpg",
+      "count": "129",
+      "ratio": "1071:1975",
+      "name": "Wallpaper Collection 6"
+    },
+    {
+      "id": "silver",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/silver.jpg",
+      "count": "32",
+      "ratio": "381:555",
+      "name": "Silver wallpaper"
+    },
+    {
+      "id": "FFAlphabet",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFAlphabet.jpg",
+      "count": "26",
+      "ratio": "699:385",
+      "name": "Alphabet Wallpaper"
+    },
+    {
+      "id": "FFLoveAlphabet",
+      "image": "https://raw.githubusercontent.com/TheUniverse779/ffwallpaper/main/CategoryAvatar/FFLoveAlphabet.jpg",
+      "count": "26",
+      "ratio": "697:481",
+      "name": "Love Alphabet Wallpaper"
+    }
+  ]
 }
